@@ -16,7 +16,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd JS-cook-quest`
+* `cd cook-quest`
 * `npm install`
 * `bower install`
 * create apiKey.js file within the config folder
