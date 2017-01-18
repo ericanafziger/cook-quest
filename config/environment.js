@@ -20,7 +20,7 @@ module.exports = function(environment) {
     firebase: {
       apiKey,
       authDomain,
-      databaseURL: "https://q-and-a-ca85f.firebaseio.com",
+      databaseURL: "https://cook-quest.firebaseio.com",
       storageBucket,
     },
 

@@ -1,0 +1,86 @@
+{
+  "answers" : {
+    "-KaNwzBifReq-vRDZP8w" : {
+      "author" : "Erica",
+      "content" : "Cook for 20 minutes",
+      "question" : "1"
+    },
+    "-KaNyL2XIuRLdPTTxfDH" : {
+      "author" : "Philip Hone",
+      "content" : "I usually try to go to the local farmer's market on Gibson St.",
+      "question" : "2"
+    },
+    "-KaO5s1E4aDKYqkj_ED8" : {
+      "author" : "Erica",
+      "content" : "Here is a great gluten free banana bread recipe http://allrecipes.com/recipe/217065/gluten-free-banana-bread/?internalSource=rotd&referringId=1755&referringContentType=recipe%20hub&clickId=cardslot%201",
+      "question" : "-KaO5gL9IM4Sp-SP5q1-"
+    },
+    "-KaOqf7cS2J3dUviGP6I" : {
+      "author" : "Joseph Meyer",
+      "content" : "I'm sure you can order some online. Amazon has everything!",
+      "question" : "2"
+    },
+    "-KaOraOLENlMUYnfF09y" : {
+      "author" : "Becky Ray",
+      "content" : "",
+      "question" : "-KaOhIjdjf_0x2hMjlg9"
+    },
+    "-KaP1Ven3Ar4TMp9paBU" : {
+      "author" : "Terry",
+      "content" : "You should be able to cook them for 20-30 minutes at 300 degrees. Here is a link to some great salmon recipes *link*.",
+      "question" : "1"
+    },
+    "-KaP3P0oCaH4BwlXUsRT" : {
+      "author" : "Harrison",
+      "content" : "Here is a great recipe I've used several time. My family loves it! \nhttp://allrecipes.com/recipe/87979/peach-pie-the-old-fashioned-two-crust-way/",
+      "question" : "0"
+    },
+    "-KaPCtJGv9_kZv-7LcAX" : {
+      "author" : "Erica",
+      "content" : "There are some great one's on this site *link*",
+      "question" : "0"
+    }
+  },
+  "questions" : {
+    "0" : {
+      "answers" : {
+        "-KaP3P0oCaH4BwlXUsRT" : true,
+        "-KaPCtJGv9_kZv-7LcAX" : true
+      },
+      "author" : "Bonnie Fisher",
+      "content" : "Do you know of a good peach pie recipe?",
+      "notes" : "I am specifically looking for a recipe that is easy and quick to make. I have several recipes that are too sweet. I am looking for minimal added sugar. Thanks!"
+    },
+    "1" : {
+      "answers" : {
+        "-KaNwzBifReq-vRDZP8w" : true,
+        "-KaP1Ven3Ar4TMp9paBU" : true
+      },
+      "author" : "Bryanna Fletcher",
+      "content" : "How long does it take to make salmon?",
+      "notes" : "I am cooking 3 frozen filets."
+    },
+    "2" : {
+      "answers" : {
+        "-KaNyL2XIuRLdPTTxfDH" : true,
+        "-KaOqf7cS2J3dUviGP6I" : true
+      },
+      "author" : "Violet Gibson",
+      "content" : "Where do you go to get the best truffle oil?",
+      "notes" : "I am making truffle fries for an upcoming event and can't seem to find truffle oil in the grocery stores nearby."
+    },
+    "-KaO5gL9IM4Sp-SP5q1-" : {
+      "answers" : {
+        "-KaO5s1E4aDKYqkj_ED8" : true
+      },
+      "author" : "Josie Lapp",
+      "content" : "How do you make gluten free bread?",
+      "notes" : "I am interested in making homemade gluten free bread. What are some good recipes?"
+    },
+    "-KaOgZ9FsRNSTiHcyBTZ" : {
+      "author" : "Henry Dale",
+      "content" : "What is the best way to make chicken tenders?",
+      "notes" : "I am looking for a simple recipe to make for family dinners. "
+    }
+  }
+}

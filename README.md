@@ -29,11 +29,13 @@ You will need the following things properly installed on your computer.
 * Create an account with firebase.google.com and create new project
 * Select the "add firebase to your web app" button to view the above variables and replace them with your own ones generated from firebase.
 * Also replace the databaseURL within the firebase section of the config/environment.js file.
+* Finally add questions.json to the firebase database by clicking on database in the left hand column. Then click on the three dots to import json.
+* Change read and write rules to true within the rules tab of the database section.
 
 
 ## Running / Development
 
-* `ember serve`
+* To launch run `ember s` in the command line
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
 ### Code Generators
